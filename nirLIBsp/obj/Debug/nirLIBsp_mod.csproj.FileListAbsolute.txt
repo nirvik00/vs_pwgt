@@ -1,0 +1,5 @@
+C:\Users\Nirvik Saha\Documents\Visual Studio 2015\Projects\nirLIBsp\nirLIBsp\bin\Debug\nirLIBsp.dll
+C:\Users\Nirvik Saha\Documents\Visual Studio 2015\Projects\nirLIBsp\nirLIBsp\bin\Debug\nirLIBsp.pdb
+C:\Users\Nirvik Saha\Documents\Visual Studio 2015\Projects\nirLIBsp\nirLIBsp\obj\Debug\nirLIBsp_mod.csprojResolveAssemblyReference.cache
+C:\Users\Nirvik Saha\Documents\Visual Studio 2015\Projects\nirLIBsp\nirLIBsp\obj\Debug\nirLIBsp.dll
+C:\Users\Nirvik Saha\Documents\Visual Studio 2015\Projects\nirLIBsp\nirLIBsp\obj\Debug\nirLIBsp.pdb
